@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+	<title>Katalon-LoginLogout</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">LoginLogout</td></tr>
+</thead>
+<tbody>
+<tr><td>open</td><td>https://opensource-demo.orangehrmlive.com/<datalist><option>http://www.universitedutest.com/OrangeHRM/symfony/web/index.php/auth/login</option><option>http://www.universitedutest.com/OrangeHRM</option><option>http://localhost/OrangeHRM</option><option>https://opensource-demo.orangehrmlive.com/</option></datalist></td><td></td>
+</tr>
+<tr><td>waitForElementPresent</td><td>id=logInPanelHeading<datalist><option>id=logInPanelHeading</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)=concat('Nom d', "'", 'utilisateur')])[1]/preceding::div[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Mot de passe'])[1]/preceding::div[2]</option><option>//div[@id='logInPanelHeading']</option><option>//form[@id='frmLogin']/div</option><option>//form/div</option><option>css=#logInPanelHeading</option></datalist></td><td></td>
+</tr>
+<tr><td>type</td><td>id=txtUsername<datalist><option>id=txtUsername</option><option>name=txtUsername</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='LOGIN Groupe'])[1]/following::input[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)=concat('Nom d', "'", 'utilisateur')])[1]/preceding::input[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Mot de passe'])[1]/preceding::input[2]</option><option>//input[@id='txtUsername']</option><option>//div[@id='divUsername']/input</option><option>//div[2]/input</option><option>css=#txtUsername</option></datalist></td><td>admin</td>
+</tr>
+<tr><td>type</td><td>id=txtPassword<datalist><option>id=txtPassword</option><option>name=txtPassword</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)=concat('Nom d', "'", 'utilisateur')])[1]/following::input[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='LOGIN Groupe'])[1]/following::input[2]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Mot de passe'])[1]/preceding::input[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)=concat('Informations d', "'", 'identification valides')])[1]/preceding::input[2]</option><option>//input[@id='txtPassword']</option><option>//div[@id='divPassword']/input</option><option>//div[3]/input</option><option>css=#txtPassword</option></datalist></td><td>admin123</td>
+</tr>
+<tr><td>click</td><td>id=btnLogin<datalist><option>id=btnLogin</option><option>name=Submit</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Mot de passe'])[1]/following::input[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)=concat('Nom d', "'", 'utilisateur')])[1]/following::input[2]</option><option>//input[@id='btnLogin']</option><option>//div[@id='divLoginButton']/input</option><option>//div[5]/input</option><option>css=#btnLogin</option></datalist></td><td></td>
+</tr>
+<tr><td>verifyText</td><td>id=welcome<datalist><option>id=welcome</option><option>link=Welcome Admin</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::a[2]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='About'])[2]/preceding::a[3]</option><option>//a[contains(text(),'Welcome Admin')]</option><option>//a[@id='welcome']</option><option>//div[@id='branding']/a[2]</option><option>//a[contains(@href, '#')]</option><option>//a[2]</option><option>css=#welcome</option></datalist></td><td>Welcome Paul</td>
+</tr>
+<tr><td>click</td><td>id=welcome<datalist><option>id=welcome</option><option>link=Welcome Admin</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::a[2]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='About'])[2]/preceding::a[3]</option><option>//a[contains(text(),'Welcome Admin')]</option><option>//a[@id='welcome']</option><option>//div[@id='branding']/a[2]</option><option>//a[contains(@href, '#')]</option><option>//a[2]</option><option>css=#welcome</option></datalist></td><td></td>
+</tr>
+<tr><td>click</td><td>link=Logout<datalist><option>link=Déconnexion</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Changer mot de passe'])[1]/following::a[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='About'])[2]/following::a[2]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[1]/preceding::a[1]</option><option>xpath=(.//*[normalize-space(text()) and normalize-space(.)='Utilisateurs'])[1]/preceding::a[3]</option><option>//a[contains(text(),'Déconnexion')]</option><option>//div[@id='welcome-menu']/ul/li[3]/a</option><option>//a[contains(@href, '/OrangeHRM/symfony/web/index.php/auth/logout')]</option><option>//li[3]/a</option><option>link=Logout</option></datalist></td><td></td>
+</tr>
+</tbody></table>
+</body>
+</html>
