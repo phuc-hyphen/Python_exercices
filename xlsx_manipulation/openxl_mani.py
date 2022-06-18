@@ -18,14 +18,14 @@ from openpyxl import load_workbook
 # ignoring warning
 warnings.simplefilter(action='ignore', category=UserWarning)
 
-workbook = load_workbook(filename="xlsx_manipulation/NDF_Projets_V2.xlsx")
+workbook = load_workbook(filename="/home/huu-phuc-le/NDF_Projets_V2.xlsx")
 # to see all the sheets you have available to work with.
 # print(workbook.sheetnames) 
 
 # # selects sheets
 first_sheet = workbook.active # the first available sheet
 
-sheet_data2 = workbook["sheet_names"] # with the sheet names
+sheet_data2 = workbook["Lignes à requalifier"] # with the sheet names
 
 # # To return the actual value of a cell
 # sheet["A1"].value
