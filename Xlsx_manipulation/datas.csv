@@ -1,0 +1,99 @@
+nom;prenom;matricule;date_de_naissance;rue;code;ville;telephone;email
+Camille;Collin;"boulevard Claire Lebon
+75938 Carre";25/05/1940;chemin de Rossi;41157;Saône-et-Loire;+33 (0)3 26 65 93 87;qdijoux@levy.com
+Michelle;Alexandre;"45, chemin de Fischer
+39332 PonsBourg";29/04/1932;571, chemin de Munoz;85839;Haute-Saône;367196593;julien32@raymond.org
+Christelle;Muller;"12, boulevard Normand
+84833 Humbert-sur-Delorme";01/11/1958;25, boulevard Gabriel Coulon;33041;Territoire de Belfort;+33 3 44 25 60 12;benjaminbaudry@michel.net
+Julie;Bruneau;"6, rue Seguin
+32173 Saint Émilie";22/04/1979;5, rue Guérin;56208;Nord;+33 (0)4 56 16 34 57;marthemaillet@gosselin.com
+Camille;Renard;"81, rue de Richard
+69845 Descamps-la-Forêt";05/04/1942;8, rue de Daniel;84237;Loiret;481599246;fgilles@valentin.fr
+Hugues;Dupuis;"76, avenue Boutin
+02714 Cohen";07/03/1993;190, chemin Thierry Bigot;63812;Aisne;04 82 65 03 00;aubertgeorges@hernandez.com
+Eugène;Ollivier;"1, avenue Susanne Ferreira
+28512 Moreau";19/02/1927;chemin Pascal;59097;Essonne;04 72 65 82 36;alain22@le.fr
+Sophie;Tessier;"500, rue Guillon
+56824 Sainte Nath-sur-Mer";12/12/1927;28, avenue Victoire Boulanger;61187;Oise;562517176;hernandezxavier@brun.fr
+Susan;Riou;"rue Bouvet
+06016 Paul-la-Forêt";05/06/1982;236, rue Raymond Mary;63511;Yonne;+33 (0)4 11 73 17 64;lucydupont@ferrand.net
+Céline;Hoareau;"81, boulevard Lebon
+87577 Allard";26/02/1951;chemin Thérèse Lebrun;82492;Lozère;492711801;gillesfournier@garcia.fr
+Vincent;Renard;"95, boulevard Constance Fontaine
+89163 Regnier";31/03/1978;49, rue Traore;48945;Ariège;05 79 44 66 60;lucyrodriguez@renault.com
+Auguste;Leduc;"29, rue de Benard
+09767 Saint Charlotte";24/12/1941;boulevard Maurice;51853;Maine-et-Loire;01 79 09 79 51;simone26@vallet.com
+Diane;Roche;"45, chemin Sophie Lefort
+00740 Martineau-sur-Mer";20/08/1952;boulevard de Rocher;84126;Sarthe;01 72 16 11 62;cohenaurore@martinez.fr
+Victor;Mace;"rue Gérard Pelletier
+55203 Guérin";18/11/1940;4, rue de Letellier;45093;Corrèze;+33 3 70 17 54 20;agnesdaniel@klein.org
+Françoise;Bousquet;"911, chemin de Barbier
+22358 Gomez";31/05/1946;16, boulevard Lefebvre;11264;Haute-Saône;04 99 29 64 51;capucinelefort@diaz.com
+Alexandria;Lejeune;"47, chemin Charlotte Robin
+14189 Boutin";06/02/1982;76, rue De Sousa;82571;Orne;+33 2 78 07 97 03;gabriel48@lamy.com
+Margaret;Mahe;"14, chemin Laroche
+04689 HebertBourg";05/10/1955;23, rue Charles;85183;Martinique;+33 1 60 64 48 29;elisabethduval@couturier.fr
+Nicole;Merle;"35, rue Grenier
+66972 Laroche-la-Forêt";26/07/1969;46, avenue Marine Charrier;70742;Val-d'Oise;01 53 93 05 76;lainedaniel@torres.fr
+Aimé;Alves;"rue de Dupuy
+32943 Sainte Célineboeuf";29/08/1973;76, avenue Neveu;85232;Morbihan;540667633;lmartins@chevallier.net
+Luce;Clément;"3, boulevard Léger
+84567 Sainte Inès";02/04/1983;47, chemin Augustin Bertrand;25040;Cher;+33 (0)5 36 63 96 83;volivier@seguin.fr
+Tristan;Regnier;"90, rue Tessier
+38533 Maillet";22/05/1962;864, rue Benjamin Schneider;7770;Haute-Marne;03 71 71 11 31;antoinettebenoit@raymond.com
+Thérèse;Launay;"rue Camus
+24556 Sainte Juliette-sur-Mer";02/10/1961;997, chemin de Maillard;1912;Seine-Saint-Denis;02 53 34 08 86;rivierealice@lemaire.fr
+Michel;Parent;"91, chemin Nicolas Besson
+49220 Bodinboeuf";30/04/1971;3, rue Joseph Gros;23793;Gard;+33 5 54 36 59 92;nnicolas@laine.fr
+Claudine;Pineau;"boulevard Guibert
+77851 Dos Santos";27/01/1976;55, rue Marc Morel;35734;Loire-Atlantique;+33 2 90 05 98 02;alphonse70@guillot.com
+Maurice;Guibert;"chemin Dupré
+23762 Langlois";17/06/1945;76, avenue Aubry;9166;Côte-d'Or;+33 (0)3 85 29 82 15;zoeschmitt@simon.com
+Michelle;Chevalier;"8, rue de Bonneau
+45600 Blancboeuf";21/03/1961;47, chemin de Goncalves;54760;Jura;426708984;pineauanastasie@antoine.fr
+Bernard;Lefebvre;"5, boulevard de Boutin
+38856 Guillaume";02/03/1937;93, chemin de Goncalves;50909;Corse-du-Sud;328445769;apicard@colas.com
+Zacharie;Petit;"49, boulevard Lamy
+28212 Masson-sur-Bodin";04/05/1995;56, chemin Alexandre Gilbert;48885;Haute-Loire;+33 4 89 62 08 29;dalves@guilbert.net
+Alfred;Étienne;"85, rue Masse
+42619 Gomezdan";22/08/1990;4, avenue François;64465;Yvelines;174407043;bcollin@grenier.com
+Isabelle;Turpin;"59, rue Anastasie Reynaud
+01955 Saint Laurent";17/06/1936;670, chemin Carlier;46292;Marne;387022270;berthelotmarie@arnaud.fr
+Susanne;Mary;"rue de Aubry
+45448 Meyerdan";09/08/1996;3, boulevard de Fontaine;13793;Nièvre;+33 4 90 52 78 08;paulzacharie@becker.com
+Aurélie;Raynaud;"75, chemin de Bousquet
+25022 Sainte Julie";11/09/1947;rue Marthe Langlois;9251;Haute-Marne;+33 (0)3 66 59 94 49;lpasquier@de.net
+Amélie;Andre;"rue Marty
+26905 Lenoirdan";27/03/1986;boulevard Maréchal;8115;Loiret;+33 (0)3 75 02 84 00;kmarques@renard.net
+Laurence;Boulanger;"40, chemin Boulanger
+35326 Marchal-les-Bains";25/12/1973;3, rue de Torres;22005;Hautes-Pyrénées;+33 (0)1 46 01 99 22;amichel@duhamel.fr
+Michèle;Hoarau;"738, rue Cordier
+16637 Jeannec";19/01/1954;26, chemin Édith Guichard;99734;Alpes-Maritimes;582618026;lecoqastrid@lesage.com
+Michèle;Jacques;"85, rue Jeanne Jacquet
+55257 ChrétienVille";05/01/1948;69, avenue Luce Dupont;86064;Lozère;+33 3 24 22 19 52;perrethortense@barthelemy.com
+Lucy;Lacombe;"382, rue Gaillard
+08275 Guyon-sur-Hervé";30/12/1966;7, rue Zacharie Techer;82684;Gard;03 24 67 84 66;normandhonore@thomas.com
+Marthe;Merle;"581, boulevard de Roy
+10015 PrévostBourg";25/12/1982;447, boulevard Courtois;82028;Haute-Marne;+33 3 66 64 09 26;brigittemoreno@mallet.fr
+Xavier;Rey;"boulevard François Royer
+86742 Gimenez";18/12/1970;39, rue Daniel Martel;96814;Orne;+33 5 54 14 25 12;chartierguillaume@robert.fr
+Michèle;Blot;"255, rue de Guillot
+74430 Monnierboeuf";08/11/1933;boulevard Audrey Jean;62343;Val-d'Oise;04 77 54 69 21;gmonnier@rolland.fr
+Louise;Pelletier;"56, avenue Klein
+72532 Didier";03/07/1952;avenue de Perrier;87993;Vienne;03 85 47 35 80;georgestimothee@dumas.fr
+Benoît;Bruneau;"5, chemin Colin
+25030 Sainte Élisabeth";29/12/1921;4, avenue Philippe;89618;Côtes-d'Armor;+33 2 48 66 70 63;csalmon@leroy.fr
+Maryse;Tessier;"92, chemin Henry
+40292 Guillaumeboeuf";28/10/1948;981, avenue Denis;72785;Charente-Maritime;02 55 61 98 53;wmenard@becker.fr
+André;Cohen;"47, rue Philippe Martel
+23745 Joseph-les-Bains";22/06/1992;4, boulevard Louise Maillet;2505;Deux-Sèvres;+33 5 31 76 36 73;anaisrousseau@samson.net
+Monique;Millet;"799, boulevard Teixeira
+97037 Prévost-sur-Berthelot";09/02/1948;rue Lucas;79318;Meurthe-et-Moselle;594573258;michelle76@dupre.fr
+Camille;Bigot;"31, avenue Mathilde Gimenez
+50063 Sainte Isabellenec";27/12/1994;3, avenue de Ruiz;88119;Seine-Saint-Denis;05 17 03 69 54;valletalphonse@bonneau.fr
+Honoré;Turpin;"avenue de Lopes
+66853 Aubry-sur-Blanc";15/05/1927;89, boulevard Voisin;56016;Seine-et-Marne;+33 5 19 20 16 30;remy61@klein.fr
+Laetitia;Diaz;"680, boulevard de Garcia
+70452 Perrin";06/10/1997;5, rue de Dijoux;92708;Mayotte;+33 3 24 18 32 36;julierocher@leveque.com
+René;Mace;"83, rue Robert Guilbert
+15450 Saint StéphaneBourg";14/01/1944;93, chemin de Pons;68861;Aude;02 99 24 36 40;petitlucie@garnier.fr

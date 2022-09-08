@@ -1,0 +1,60 @@
+2022-09-02 11:29:55,551 werkzeug - INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2022-09-02 11:29:55,551 werkzeug - INFO:[33mPress CTRL+C to quit[0m
+2022-09-02 11:30:17,685 werkzeug - INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2022-09-02 11:30:17,686 werkzeug - INFO:[33mPress CTRL+C to quit[0m
+2022-09-02 11:30:23,835 webhookapi - ERROR:Exception on /webhook_api/v1/Master [POST]
+Traceback (most recent call last):
+  File "C:\Users\p.le-huu\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\p.le-huu\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\p.le-huu\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\p.le-huu\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:\Formation\Python\Python_codes\jirawebhooks\webhookapi.py", line 39, in MasterEvents
+    master.GetIssue(data)
+  File "c:\Formation\Python\Python_codes\jirawebhooks\Master.py", line 47, in GetIssue
+    print(self.reporter.name)
+AttributeError: 'dict' object has no attribute 'name'
+2022-09-02 11:30:23,940 werkzeug - INFO:127.0.0.1 - - [02/Sep/2022 11:30:23] "[35m[1mPOST /webhook_api/v1/Master?user_id=phuc&user_key=JIRAUSER10000 HTTP/1.1[0m" 500 -
+2022-09-02 11:31:43,656 werkzeug - INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2022-09-02 11:31:43,658 werkzeug - INFO:[33mPress CTRL+C to quit[0m
+2022-09-02 11:31:55,191 webhookapi - ERROR:Exception on /webhook_api/v1/Master [POST]
+Traceback (most recent call last):
+  File "C:\Users\p.le-huu\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\p.le-huu\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\p.le-huu\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\p.le-huu\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:\Formation\Python\Python_codes\jirawebhooks\webhookapi.py", line 39, in MasterEvents
+    master.GetIssue(data)
+  File "c:\Formation\Python\Python_codes\jirawebhooks\Master.py", line 47, in GetIssue
+    print(self.reporter.name)
+AttributeError: 'dict' object has no attribute 'name'
+2022-09-02 11:31:55,206 werkzeug - INFO:127.0.0.1 - - [02/Sep/2022 11:31:55] "[35m[1mPOST /webhook_api/v1/Master?user_id=phuc&user_key=JIRAUSER10000 HTTP/1.1[0m" 500 -
+2022-09-02 11:34:08,306 werkzeug - INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2022-09-02 11:34:08,306 werkzeug - INFO:[33mPress CTRL+C to quit[0m
+2022-09-02 11:34:21,629 webhookapi - ERROR:Exception on /webhook_api/v1/Master [POST]
+Traceback (most recent call last):
+  File "C:\Users\p.le-huu\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\p.le-huu\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\p.le-huu\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\p.le-huu\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "c:\Formation\Python\Python_codes\jirawebhooks\webhookapi.py", line 39, in MasterEvents
+    master.GetIssue(data)
+  File "c:\Formation\Python\Python_codes\jirawebhooks\Master.py", line 47, in GetIssue
+    print(self.reporter.name)
+AttributeError: 'dict' object has no attribute 'name'
+2022-09-02 11:34:21,660 werkzeug - INFO:127.0.0.1 - - [02/Sep/2022 11:34:21] "[35m[1mPOST /webhook_api/v1/Master?user_id=phuc&user_key=JIRAUSER10000 HTTP/1.1[0m" 500 -
