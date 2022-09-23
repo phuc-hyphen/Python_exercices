@@ -10,7 +10,7 @@ agr_dict = {
     'v_url': "",
     'v_type': "mp4",
     'v_name': "",
-    'v_location': "C:/users/p.le-huu/Downloads",
+    'v_location': "/home/huu-phuc-le/Downloads",
     'v_infor': False
 }
 help = f'''
@@ -81,7 +81,7 @@ def download(yt):
     if agr_dict['v_type'] == "mp4":
         try:
             yt.streams.get_highest_resolution().download(
-                agr_dict['v_location'],filename=agr_dict['v_name'] + '.mp4')
+                agr_dict['v_location'], filename=agr_dict['v_name'] + '.mp4')
         except pytube.exceptions.RegexMatchError as e:
             exit("Error downloading video")
     elif agr_dict['v_type'] == "mp3":
@@ -108,3 +108,4 @@ if agr_dict['v_name'] == '':
     agr_dict['v_name'] = yt.title
 # print(agr_dict)
 download(yt)
+print("Download finish !!!, the file saved at " + agr_dict['v_location'])
